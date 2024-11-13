@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Jannat
 ## Software Developer
 
-#### I am GitHub Readme Generator's creator
+
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: C/C++/ JS / HTML / CSS
@@ -18,13 +18,4 @@ Skills: C/C++/ JS / HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jannat1937&show_icons=true&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Jannat1937)  
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jannat1937&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Jannat1937/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Jannat1937)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Jannat1937)  
 
